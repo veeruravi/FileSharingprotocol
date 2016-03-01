@@ -1,0 +1,4 @@
+IndexGet .*py
+IndexGet .c
+IndexGet longlist
+quit
